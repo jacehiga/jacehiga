@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Jace Higa
 
-I'
+Welcome to my GitHub page!
+I'm currently pursuing my Master's in Data Science at Willamette University, with graduation expected at the end of August. This repository highlights the skills I've developed and the concepts I've explored throughout my academic journey. You'll find examples of data scraping, pipeline development, data wrangling and exploration, interactive visualizations, dashboards, and applied machine learning models.
 
+Feel free to explore, I’m always learning, building, and refining my skills!
 ---
 
 ## Technical Skills
@@ -10,29 +12,22 @@ I'
 - SQL, R, Python, JavaScript
 
 ### Data Visualization
-- Python: `Matplotlib`, `Seaborn`, `Plotly`, `Streamlit`
 - R: `ggplot2`, `Shiny`
+- SQL: `Grafana`
 
 ### Machine Learning & AI
-- **Packages**: `TensorFlow`, `Keras`, `Scikit-learn`, `NumPy`, `Pandas`, `NLTK`
-- **Supervised Learning**: Linear/Logistic Regression, Naive Bayes, LDA, Decision Trees, Random Forests, SVM, KNN, NLP
-- **Unsupervised Learning**: K-Means, PCA, Topic Modeling (NLP)
-- **Deep Learning**: TensorFlow, Keras
-- **Reinforcement Learning**: `Stable Baselines3`, `OpenAI Gymnasium`
+- **Supervised Learning**: Linear/Logistic Regression, K-Nearest Neighbors, Naive Bayes, Decision Trees, Random Forests
+- **Unsupervised Learning**: K-Means
 
 ### Data Engineering & Tools
-- PostgreSQL, pgAdmin4, Docker, Railway, Bash
+- **Databases & Query Engines**: PostgreSQL, DuckDB  
+- **Workflow Orchestration**: Airflow  
+- **Cloud & Storage**: Railway, MinIO (S3 compatible)  
+- **Containers & DevOps**: Docker, Bash 
 
 ---
 
 ## 🧠 Projects & Experience
-
-### Data Science Intern (3 summers at a tech startup)
-- Built a web scraping tool to classify hard skills (integrated into a production app)
-- Created a CSV → XML data conversion tool
-- Performed manual and automated data transformation tasks
-- Contributed to code reviews and sprint planning
-- Delivered progress updates in daily standups
 
 ### Master's Program Highlights
 - Built a Formula 1 dashboard using **R Shiny**
@@ -40,6 +35,14 @@ I'
 - Applied survival analysis to real-world attrition data
 - Used decision trees and reinforcement learning to optimize Blackjack strategy  
   - Created a custom Gymnasium environment and tested PPO/A2C models
+ 
+### Data Science Intern (3 summers at a tech startup)
+- Built a web scraping tool to classify hard skills (integrated into a production app)
+- Created a CSV → XML data conversion tool
+- Performed manual and automated data transformation tasks
+- Contributed to code reviews and sprint planning
+- Delivered progress updates in daily standups
+
 
 ---
 
