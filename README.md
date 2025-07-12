@@ -27,21 +27,35 @@ I'm currently pursuing my Master's in Data Science at Willamette University, wit
 
 ---
 
-## 🧠 Projects & Experience
+## Experience
 
-### Master's Program Highlights
-- Built a Formula 1 dashboard using **R Shiny**
-- Designed SQL data pipelines for automated reporting
-- Applied survival analysis to real-world attrition data
-- Used decision trees and reinforcement learning to optimize Blackjack strategy  
-  - Created a custom Gymnasium environment and tested PPO/A2C models
- 
-### Data Science Intern (3 summers at a tech startup)
-- Built a web scraping tool to classify hard skills (integrated into a production app)
-- Created a CSV → XML data conversion tool
-- Performed manual and automated data transformation tasks
-- Contributed to code reviews and sprint planning
-- Delivered progress updates in daily standups
+## 💼 Professional Experience
+
+### Data Science Master’s Student
+- Analyzed complex datasets to generate insights through reports and visualizations
+- Implemented dashboarding tools using **R Shiny** and **Grafana**
+- Engineered ingestion pipelines and scrapers in Python with SQL-based transforms
+- Built metro data pipelines using **Airflow**, **DuckDB**, **PostgreSQL**, and **MinIO**
+- Applied machine learning to wine and education data (e.g. Decision Trees, kNN)
+- Conducted time-to-event analysis using survival models
+- Developed and launched a survey supporting funding for a university tutoring center
+
+---
+
+### Data Analyst Intern - McIlhenny Company (Tabasco)
+- Analyzed manufacturing data to identify discrepancies in sauce production
+- Cleaned and transformed data using **RStudio** and the **Tidyverse**
+- Built visual dashboards to communicate data insights to stakeholders
+- Delivered actionable findings to operations and leadership for improved decision-making
+
+---
+
+### DataFest — Data Analyst Participant
+*Awarded Best Overall & Best Statistical Model/Analysis*
+- Conducted exploratory analysis on American Bar Association datasets under a 48-hour deadline
+- Integrated external data sources to enhance insight relevance and depth
+- Presented results using **Studio** visualizations to ABA stakeholders
+
 
 
 ---
