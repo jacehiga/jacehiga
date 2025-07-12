@@ -60,11 +60,11 @@ I'm currently pursuing my Master's in Data Science at Willamette University, wit
 
 ## 📂 Featured Repositories
 
-- 🔬 [NBA Betting](https://github.com/jacehiga/nba_betting)
-- 📊 [DataViz](https://github.com/jacehiga/DataViz)
-- ⚙️ [Automation](https://github.com/jacehiga/Automation)
-- 🐍 [ProjectsinPython](https://github.com/jacehiga/ProjectsinPython)
-- 🌐 [Portfolio Website](https://jacehiga.pages.dev/portfolio)
+- [NBA Betting](https://github.com/jacehiga/nba_betting)
+- [MLB Data Acquisition](https://github.com/jacehiga/mlb_data_acquisition)
+- [Automation](https://github.com/jacehiga/Automation)
+- [ProjectsinPython](https://github.com/jacehiga/ProjectsinPython)
+- [Portfolio Website](https://jacehiga.pages.dev/portfolio)
 
 ---
 
