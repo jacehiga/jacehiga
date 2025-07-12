@@ -62,9 +62,9 @@ I'm currently pursuing my Master's in Data Science at Willamette University, wit
 
 - [NBA Betting](https://github.com/jacehiga/nba_betting)
 - [MLB Data Acquisition](https://github.com/jacehiga/mlb_data_acquisition)
-- [Automation](https://github.com/jacehiga/Automation)
-- [ProjectsinPython](https://github.com/jacehiga/ProjectsinPython)
-- [Portfolio Website](https://jacehiga.pages.dev/portfolio)
+- [Datafest Project](https://github.com/jacehiga/datafest)
+- [Gender Pay Dashboard](https://github.com/jacehiga/gender_pay)
+- [Spelling Bee Word Generator](https://github.com/jacehiga/spelling_bee)
 
 ---
 
