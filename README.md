@@ -29,8 +29,6 @@ I'm currently pursuing my Master's in Data Science at Willamette University, wit
 
 ## Experience
 
-## 💼 Professional Experience
-
 ### Data Science Master’s Student
 - Analyzed complex datasets to generate insights through reports and visualizations
 - Implemented dashboarding tools using **R Shiny** and **Grafana**
