@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Jace Higa
 
 Welcome to my GitHub page!
+
 I'm currently pursuing my Master's in Data Science at Willamette University, with graduation expected at the end of August. This repository highlights the skills I've developed and the concepts I've explored throughout my academic journey. You'll find examples of data scraping, pipeline development, data wrangling and exploration, interactive visualizations, dashboards, and applied machine learning models.
 
-Feel free to explore, I’m always learning, building, and refining my skills!
+Feel free to explore, I am always learning, building, and refining my skills!
 ---
 
 ## Technical Skills
