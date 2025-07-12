@@ -15,15 +15,15 @@ I'm currently pursuing my Master's in Data Science at Willamette University, wit
 - R: `ggplot2`, `Shiny`
 - SQL: `Grafana`
 
-### Machine Learning & AI
-- **Supervised Learning**: Linear/Logistic Regression, K-Nearest Neighbors, Naive Bayes, Decision Trees, Random Forests
-- **Unsupervised Learning**: K-Means
-
 ### Data Engineering & Tools
-- **Databases & Query Engines**: PostgreSQL, DuckDB  
-- **Workflow Orchestration**: Airflow  
-- **Cloud & Storage**: Railway, MinIO (S3 compatible)  
-- **Containers & DevOps**: Docker, Bash 
+- **Databases & Query Engines**: `PostgreSQL`, `DuckDB`  
+- **Workflow Orchestration**: `Airflow`  
+- **Cloud & Storage**: `Railway`, `MinIO (S3 compatible)`  
+- **Containers & DevOps**: `Docker`, `Bash`
+- 
+### Machine Learning & AI
+- **Supervised Learning**: `Linear/Logistic Regression`, `K-Nearest Neighbors`, `Naive Bayes`, `Decision Trees`, `Random Forests`
+- **Unsupervised Learning**: `K-Means`
 
 ---
 
