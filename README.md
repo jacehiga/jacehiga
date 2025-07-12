@@ -48,7 +48,7 @@ I'm currently pursuing my Master's in Data Science at Willamette University, wit
 
 ---
 
-### DataFest — Data Analyst Participant
+### Data Analyst Participant - DataFest
 *Awarded Best Overall & Best Statistical Model/Analysis*
 - Conducted exploratory analysis on American Bar Association datasets under a 48-hour deadline
 - Integrated external data sources to enhance insight relevance and depth
@@ -60,7 +60,7 @@ I'm currently pursuing my Master's in Data Science at Willamette University, wit
 
 ## 📂 Featured Repositories
 
-- 🔬 [ProjectsinR](https://github.com/jacehiga/ProjectsinR)
+- 🔬 [NBA Betting](https://github.com/jacehiga/nba_betting)
 - 📊 [DataViz](https://github.com/jacehiga/DataViz)
 - ⚙️ [Automation](https://github.com/jacehiga/Automation)
 - 🐍 [ProjectsinPython](https://github.com/jacehiga/ProjectsinPython)
